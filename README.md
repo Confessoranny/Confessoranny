@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m Anny Confessor
+- 👀 I’m interested in frontend engineering and data science
+- 🌱 I’m currently learning machine learning and javascript
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me: you can search for @annyconfessor or @confessoranny in all social media and other conections
+
 <!--
 **Confessoranny/Confessoranny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
